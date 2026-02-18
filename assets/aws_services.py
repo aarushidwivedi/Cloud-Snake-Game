@@ -1,0 +1,22 @@
+aws_services = [
+    {"name": "EC2", "description": "Virtual servers in the cloud for compute capacity", "provider": "AWS"},
+    {"name": "S3", "description": "Object storage service for data and files", "provider": "AWS"},
+    {"name": "Lambda", "description": "Run code without managing servers (serverless)", "provider": "AWS"},
+    {"name": "RDS", "description": "Managed relational database service", "provider": "AWS"},
+    {"name": "DynamoDB", "description": "Fast NoSQL database service", "provider": "AWS"},
+    {"name": "CloudFront", "description": "Content delivery network (CDN) for fast delivery", "provider": "AWS"},
+    {"name": "Route 53", "description": "Scalable DNS and domain name registration", "provider": "AWS"},
+    {"name": "VPC", "description": "Virtual Private Cloud for isolated networks", "provider": "AWS"},
+    {"name": "IAM", "description": "Identity and access management for security", "provider": "AWS"},
+    {"name": "CloudWatch", "description": "Monitoring and observability service", "provider": "AWS"},
+    {"name": "ECS", "description": "Container orchestration service", "provider": "AWS"},
+    {"name": "EKS", "description": "Managed Kubernetes service", "provider": "AWS"},
+    {"name": "SNS", "description": "Simple Notification Service for messaging", "provider": "AWS"},
+    {"name": "SQS", "description": "Message queuing service for decoupling", "provider": "AWS"},
+    {"name": "API Gateway", "description": "Create and manage APIs at scale", "provider": "AWS"},
+    {"name": "ElastiCache", "description": "In-memory caching service (Redis/Memcached)", "provider": "AWS"},
+    {"name": "Kinesis", "description": "Real-time data streaming service", "provider": "AWS"},
+    {"name": "Glue", "description": "ETL service for data preparation", "provider": "AWS"},
+    {"name": "Athena", "description": "Query data in S3 using SQL", "provider": "AWS"},
+    {"name": "Redshift", "description": "Data warehouse for analytics", "provider": "AWS"}
+]

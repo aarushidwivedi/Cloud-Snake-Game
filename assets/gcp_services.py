@@ -1,0 +1,22 @@
+gcp_services = [
+    {"name": "Compute Engine", "description": "Virtual machines on Google infrastructure", "provider": "GCP"},
+    {"name": "Cloud Storage", "description": "Object storage with global edge caching", "provider": "GCP"},
+    {"name": "Cloud Functions", "description": "Event-driven serverless compute", "provider": "GCP"},
+    {"name": "Cloud SQL", "description": "Fully managed relational databases", "provider": "GCP"},
+    {"name": "Firestore", "description": "NoSQL document database", "provider": "GCP"},
+    {"name": "Cloud CDN", "description": "Content delivery network", "provider": "GCP"},
+    {"name": "Cloud DNS", "description": "Reliable and low-latency DNS service", "provider": "GCP"},
+    {"name": "VPC", "description": "Virtual Private Cloud networking", "provider": "GCP"},
+    {"name": "IAM", "description": "Identity and access management", "provider": "GCP"},
+    {"name": "Cloud Monitoring", "description": "Monitor infrastructure and applications", "provider": "GCP"},
+    {"name": "Cloud Run", "description": "Fully managed serverless containers", "provider": "GCP"},
+    {"name": "GKE", "description": "Managed Kubernetes clusters", "provider": "GCP"},
+    {"name": "Pub/Sub", "description": "Messaging service for event streaming", "provider": "GCP"},
+    {"name": "Cloud Tasks", "description": "Asynchronous task execution", "provider": "GCP"},
+    {"name": "API Gateway", "description": "Manage and secure APIs", "provider": "GCP"},
+    {"name": "Memorystore", "description": "Managed Redis and Memcached", "provider": "GCP"},
+    {"name": "Dataflow", "description": "Stream and batch data processing", "provider": "GCP"},
+    {"name": "Dataprep", "description": "Visual data preparation tool", "provider": "GCP"},
+    {"name": "BigQuery", "description": "Serverless data warehouse for analytics", "provider": "GCP"},
+    {"name": "Cloud Composer", "description": "Managed workflow orchestration", "provider": "GCP"}
+]

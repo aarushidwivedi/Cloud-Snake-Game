@@ -1,0 +1,22 @@
+azure_services = [
+    {"name": "Virtual Machines", "description": "Scalable compute resources on demand", "provider": "Azure"},
+    {"name": "Blob Storage", "description": "Object storage for unstructured data", "provider": "Azure"},
+    {"name": "Azure Functions", "description": "Serverless compute service", "provider": "Azure"},
+    {"name": "SQL Database", "description": "Managed relational database service", "provider": "Azure"},
+    {"name": "Cosmos DB", "description": "Globally distributed NoSQL database", "provider": "Azure"},
+    {"name": "CDN", "description": "Content delivery network for fast content", "provider": "Azure"},
+    {"name": "DNS", "description": "Domain name system hosting service", "provider": "Azure"},
+    {"name": "Virtual Network", "description": "Private network in Azure cloud", "provider": "Azure"},
+    {"name": "Active Directory", "description": "Identity and access management", "provider": "Azure"},
+    {"name": "Monitor", "description": "Full observability into applications", "provider": "Azure"},
+    {"name": "Container Instances", "description": "Run containers without orchestration", "provider": "Azure"},
+    {"name": "Kubernetes Service", "description": "Managed Kubernetes clusters", "provider": "Azure"},
+    {"name": "Service Bus", "description": "Enterprise messaging service", "provider": "Azure"},
+    {"name": "Queue Storage", "description": "Message queue for decoupling", "provider": "Azure"},
+    {"name": "API Management", "description": "Publish and manage APIs securely", "provider": "Azure"},
+    {"name": "Cache for Redis", "description": "In-memory data store based on Redis", "provider": "Azure"},
+    {"name": "Event Hubs", "description": "Big data streaming platform", "provider": "Azure"},
+    {"name": "Data Factory", "description": "Data integration and ETL service", "provider": "Azure"},
+    {"name": "Synapse Analytics", "description": "Analytics service for big data", "provider": "Azure"},
+    {"name": "Logic Apps", "description": "Automate workflows and integrate apps", "provider": "Azure"}
+]
