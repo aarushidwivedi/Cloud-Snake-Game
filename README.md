@@ -22,6 +22,14 @@ A fun, educational twist on the classic Snake game that teaches you about cloud 
 - Pygame
 
 ## 📦 Installation
+# Clone the repository
+git clone https://github.com/aarushidwivedi/Cloud-Snake-Game.git
+
+# Install pygame
+pip install pygame
+
+# Run the game
+python main.py
 
 
 ## 🎯 Perfect for
