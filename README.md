@@ -31,6 +31,9 @@ A fun, educational twist on the classic Snake game that teaches you about cloud 
 ### Run the game
 `python main.py`
 
+https://github.com/user-attachments/assets/b366bd53-b67c-42ec-ab29-b568b1e89428
+
+
 ## 🎯 Perfect for
 - Cloud certification students
 - Developers learning cloud platforms
